@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mark-zacharias/AdventOfCode-Answers/issues"
   },
-  "homepage": "https://github.com/mark-zacharias/AdventOfCode-Answers#readme"
+  "homepage": "https://github.com/mark-zacharias/AdventOfCode-Answers#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
 }
