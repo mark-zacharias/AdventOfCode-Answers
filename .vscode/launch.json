@@ -5,7 +5,7 @@
 			"name": "Launch",
 			"type": "node",
 			"request": "launch",
-			"program": "day2.js",
+			"program": "C:\\dev\\aoc\\2020\\day4.js",
 			"stopOnEntry": false,
 			"args": [],
 			"cwd": ".",
